@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-02T07:23:45.071Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="gQCUw0h9jYP69ttXdDxX" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-02T07:46:35.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="U3yU0o3miqb86jzLAGTC" version="12.9.6" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1977" dy="2408.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2965" dy="2993.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="60da8b9f42644d3a-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;" parent="1" vertex="1">
           <mxGeometry x="451" y="297.5" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="60da8b9f42644d3a-29" value="研发排期" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#EF9353;strokeColor=#FFFFFF;fontColor=#FFFFFF;direction=south;" parent="1" vertex="1">
+        <mxCell id="60da8b9f42644d3a-29" value="研发、测试排期" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#EF9353;strokeColor=#FFFFFF;fontColor=#FFFFFF;direction=south;" parent="1" vertex="1">
           <mxGeometry x="426" y="397.5" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;" parent="1" vertex="1">
@@ -37,19 +37,19 @@
         <mxCell id="60da8b9f42644d3a-38" value="测试周期" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#BF639A;strokeColor=#FFFFFF;fontColor=#FFFFFF;direction=south;" parent="1" vertex="1">
           <mxGeometry x="426" y="837.5" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="5Bo4QO79uzK-TxsnAqFC-8" value="功能上线" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=#FFF4C3;direction=south;" vertex="1" parent="1">
+        <mxCell id="5Bo4QO79uzK-TxsnAqFC-8" value="功能上线" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=#FFF4C3;direction=south;" parent="1" vertex="1">
           <mxGeometry x="423.5" y="1070" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="5Bo4QO79uzK-TxsnAqFC-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;" vertex="1" parent="1">
+        <mxCell id="5Bo4QO79uzK-TxsnAqFC-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;" parent="1" vertex="1">
           <mxGeometry x="453.5" y="960" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5Bo4QO79uzK-TxsnAqFC-26" value="需求答疑" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#67AB9F;strokeColor=#FFFFFF;fontColor=#FFFFFF;direction=south;" vertex="1" parent="1">
+        <mxCell id="5Bo4QO79uzK-TxsnAqFC-26" value="需求答疑" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#67AB9F;strokeColor=#FFFFFF;fontColor=#FFFFFF;direction=south;" parent="1" vertex="1">
           <mxGeometry x="762" y="270" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="5Bo4QO79uzK-TxsnAqFC-27" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Verdana&quot; color=&quot;#67ab9f&quot;&gt;非必选&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;rotation=-75;" vertex="1" parent="1">
+        <mxCell id="5Bo4QO79uzK-TxsnAqFC-27" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Verdana&quot; color=&quot;#67ab9f&quot;&gt;非必选&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;rotation=-75;" parent="1" vertex="1">
           <mxGeometry x="629.6" y="164.13" width="40.23" height="207.5" as="geometry" />
         </mxCell>
-        <mxCell id="5Bo4QO79uzK-TxsnAqFC-28" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 20px&quot;&gt;答疑后&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;rotation=75;" vertex="1" parent="1">
+        <mxCell id="5Bo4QO79uzK-TxsnAqFC-28" value="&lt;font color=&quot;#67ab9f&quot; style=&quot;font-size: 20px&quot;&gt;答疑后&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=15;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#fff2cc;direction=south;rotation=75;" parent="1" vertex="1">
           <mxGeometry x="631.93" y="294.09" width="40.07" height="237.5" as="geometry" />
         </mxCell>
       </root>
